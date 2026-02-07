@@ -2,8 +2,7 @@
 
 **Accomodate.me** is a modern, student-focused housing platform designed for Jersey City. It helps students find off-campus housing with ease, featuring an interactive map, detailed listings, and roommate compatibility tools.
 
-<img width="1600" height="867" alt="image" src="https://github.com/user-attachments/assets/aabaeddc-d32d-4786-ad17-0d15361879f7" />
-
+<img width="1892" height="978" alt="image" src="https://github.com/user-attachments/assets/2d1fe376-0989-4665-a319-a39b2b73a417" />
 
 
 ##  Features
