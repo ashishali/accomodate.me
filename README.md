@@ -18,7 +18,7 @@
 - **Dynamic Filtering**: Filter houses by diet (Vegetarian/Non-Veg), gender preference, and more.
 - **"Fly To" Navigation**: Clicking a house on the sidebar smoothly zooms the map to its location.
 
-### 📝 Listing Management
+###  Listing Management
 - **Easy Listing Creation**: A streamlined form that auto-fills your user details.
 - **Resident Tracking**: Specify the number of current residents to automatically generate "housemate" profiles.
 - **Edit & Delete**: Full control over your own listings directly from the sidebar.
